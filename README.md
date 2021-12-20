@@ -19,7 +19,7 @@ A Web 2.0 application that utilizes Artificial Intelligence and Machine Learning
 
 ### Karata
 
-A real-time, online multiplayer inmplementation of Kenyan street poker, based on [ASP.NET Core](https://asp.net), [SignalR](https://signalr.net) and [Websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API).
+A real-time, online multiplayer implementation of Kenyan street poker, based on [ASP.NET Core](https://asp.net), [SignalR](https://signalr.net) and [Websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API).
 
 > 🎮 Karata is online and currently undergoing closed beta testing. Expect a public launch sometime soon!
 
