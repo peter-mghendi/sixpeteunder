@@ -15,7 +15,7 @@ I'm currently building:
 
 A Web 2.0 application that utilizes Artificial Intelligence and Machine Learning Techniques to enable automated transaction fraud detection, streamlining of public procurement processes and safe, anonymous whistleblowing.
 
-> 🥇 Enigma took first place nationally in the 2021 Coding4Integrity hackathon and was presented at the ninth session of the Conference of State Parties to the United Nations Convention Against Corruption (13th - 17th December, Sharm El-Sheikh, Egypt)
+> 🥇 Enigma took first place nationally in the 2021 UNODC Coding4Integrity hackathon and was presented at the ninth session of the Conference of State Parties to the United Nations Convention Against Corruption (13th - 17th December, Sharm El-Sheikh, Egypt).
 
 ### Karata
 
