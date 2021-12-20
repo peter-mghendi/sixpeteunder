@@ -27,6 +27,10 @@ A real-time, online multiplayer inmplementation of Kenyan street poker, based on
 
 A multi-tenant Web 2.0 Software-as-a-Service application aimed at simplifying, streamlining and anonymizing Customer-to-Business feedback processes.
 
+> 🕵️ Zua is directly based on lessons learned while building Enigma, to make feedback truly anonymous.
+
+
+
 <p>
   <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=sixpeteunder&theme=gotham&count_private=true&show_icons=true" />
   <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sixpeteunder&theme=gotham&hide=css,html&layout=compact" />
