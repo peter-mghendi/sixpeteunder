@@ -5,6 +5,8 @@ I'm Pete. Trying to fix bugs on the grandest scale 🌍
 While you're here you should look at:
 - [3k](https://3k.netlify.app) - Progressive Web Application that provides you with information on upcoming Marvel features.
 - [Karata](https://karatagame.herokuapp.com) - Real-time, multiplayer Kenyan street poker over websockets.
+- [TickTickToe](https://github.com/sixpeteunder/tickticktoe) - Real-time, multiplayer tic-tack-toe over websockets.
+- [Tally](https://github.com/sixpeteunder/tally) - Polling application that integrates with Telegram, Twitter, GitHub and Discord, to seamlessly deliver polls across all channels, and provide real-time results and analysis.
 - [Squanch](https://squanch.netlify.app) - Rick and Morty encyclopaedia as a Single Page application.
 - [Noticebord](https://noticebord.herokuapp.com) - Noticeboard-as-a-Service.
 - [Maseno CU](https://masenocu.org) - Maseno Christian Union website.
@@ -21,15 +23,7 @@ A Web 2.0 application that utilizes Artificial Intelligence and Machine Learning
 
 A real-time, online multiplayer implementation of Kenyan street poker, based on [ASP.NET Core](https://asp.net), [SignalR](https://signalr.net) and [Websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API).
 
-> 🎮 Karata is online and currently undergoing closed beta testing. Expect a public launch sometime soon!
-
-### Zua
-
-A multi-tenant Web 2.0 Software-as-a-Service application aimed at simplifying, streamlining and anonymizing Customer-to-Business feedback processes.
-
-> 🕵️ Zua is directly based on lessons learned while building Enigma, to make feedback truly anonymous.
-
-
+> 🎮 Karata is online and currently undergoing testing. Expect a public launch sometime soon!
 
 <p>
   <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=sixpeteunder&theme=gotham&count_private=true&show_icons=true" />
