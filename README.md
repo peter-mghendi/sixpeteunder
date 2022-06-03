@@ -4,6 +4,7 @@ I'm Pete. Trying to fix bugs on the grandest scale 🌍
 
 While you're here you should look at:
 - [3k](https://3k.netlify.app) - Progressive Web Application that provides you with information on upcoming Marvel features.
+- [Expanse](https://sixpeteunder.github.io/expanse) - An evolving wiki on the vast expanse of space.
 - [Karata](https://karatagame.herokuapp.com) - Real-time, multiplayer Kenyan street poker over websockets.
 - [TickTickToe](https://github.com/sixpeteunder/tickticktoe) - Real-time, multiplayer tic-tac-toe over websockets.
 - [Tally](https://github.com/sixpeteunder/tally) - Polling application that integrates with Telegram, Twitter, GitHub and Discord, to seamlessly deliver polls across all channels, and provide real-time results and analysis.
