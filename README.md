@@ -24,9 +24,12 @@ A Web 2.0 application that utilizes Artificial Intelligence and Machine Learning
 
 A real-time, online multiplayer implementation of Kenyan street poker, based on [ASP.NET Core](https://asp.net), [SignalR](https://signalr.net) and [Websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API).
 
-> 🎮 Karata is online and currently undergoing testing. Expect a public launch sometime soon!
+> 🎮 Karata is online fully functional!
 
-<p>
-  <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=sixpeteunder&theme=gotham&count_private=true&show_icons=true" />
-  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sixpeteunder&theme=gotham&hide=css,html&layout=compact" />
+
+<p align="center">
+  <img width="600em" align="center" src="https://github-readme-stats.vercel.app/api?username=sixpeteunder&theme=gotham&count_private=true&show_icons=true" />
+</p>
+<p align="center">
+  <img width="600em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sixpeteunder&theme=gotham&hide=css,html&layout=compact" />
 </p>
