@@ -14,17 +14,23 @@ While you're here you should look at:
 
 ## I'm currently building:
 
-### Enigma  
+### [Enigma](https://github.com/teamenigmahq)  
 
 A Web 2.0 application that utilizes Artificial Intelligence and Machine Learning Techniques to enable automated transaction fraud detection, streamlining of public procurement processes and safe, anonymous whistleblowing.
 
 > 🥇 Enigma took first place nationally in the 2021 UNODC Coding4Integrity hackathon and was presented at the ninth session of the Conference of State Parties to the United Nations Convention Against Corruption (13th - 17th December, Sharm El-Sheikh, Egypt).
 
-### Karata
+### [Karata](https://github.com/sixpeteunder/karata)
 
-A real-time, online multiplayer implementation of Kenyan street poker, based on [ASP.NET Core](https://asp.net), [SignalR](https://signalr.net) and [Websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API).
+A real-time, online multiplayer implementation of Kenyan street poker, built on [ASP.NET Core](https://asp.net), [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor), [Webassembly](https://webassembly.org/), [SignalR](https://signalr.net) and [Websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API).
 
-> 🎮 Karata is online fully functional!
+> 🎮 Karata is online and fully functional!
+
+### Galaxy One
+
+Welcome aboard the Galaxy One.
+
+> 🚀 Galaxy One takes its name from the ship of the same name in the animated TV show Final Space.
 
 
 <p align="center">
