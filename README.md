@@ -19,6 +19,8 @@ While you're here you should look at:
 A Web 2.0 application that utilizes Artificial Intelligence and Machine Learning Techniques to enable automated transaction fraud detection, streamlining of public procurement processes and safe, anonymous whistleblowing.
 
 > 🥇 Enigma took first place nationally in the 2021 UNODC Coding4Integrity hackathon and was presented at the ninth session of the Conference of State Parties to the United Nations Convention Against Corruption (13th - 17th December, Sharm El-Sheikh, Egypt).
+>
+> ❗ A modified version of Enigma was also presented at HackCorruption 2022 (22nd - 24th June, Johannesburg, South Africa).
 
 ### [Karata](https://github.com/sixpeteunder/karata)
 
@@ -28,7 +30,7 @@ A real-time, online multiplayer implementation of Kenyan street poker, built on 
 
 ### Galaxy One
 
-Welcome aboard the Galaxy One.
+Galaxy One is a (very) experimental concept aimed at using intelligent techniques to enhance social interactions.
 
 > 🚀 Galaxy One takes its name from the ship of the same name in the animated TV show Final Space.
 
