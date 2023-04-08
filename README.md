@@ -10,7 +10,6 @@ While you're here you should look at:
 - [Tally](https://github.com/sixpeteunder/tally) - Polling application that integrates with Telegram, Twitter, GitHub and Discord, to seamlessly deliver polls across all channels, and provide real-time results and analysis.
 - [Squanch](https://squanch.netlify.app) - Rick and Morty encyclopaedia as a Single Page application.
 - [Noticebord](https://noticebord.herokuapp.com) - Noticeboard-as-a-Service.
-- [Maseno CU](https://masenocu.org) - Maseno Christian Union website.
 
 ## I'm currently building:
 
@@ -27,13 +26,6 @@ A Web 2.0 application that utilizes Artificial Intelligence and Machine Learning
 A real-time, online multiplayer implementation of Kenyan street poker, built on [ASP.NET Core](https://asp.net), [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor), [Webassembly](https://webassembly.org/), [SignalR](https://signalr.net) and [Websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API).
 
 > 🎮 Karata is online and fully functional!
-
-### Galaxy One
-
-Galaxy One is a (very) experimental concept aimed at using intelligent techniques to enhance social interactions.
-
-> 🚀 Galaxy One takes its name from the ship of the same name in the animated TV show Final Space.
-
 
 <p align="center">
   <img width="600em" align="center" src="https://github-readme-stats.vercel.app/api?username=sixpeteunder&theme=gotham&count_private=true&show_icons=true" />
