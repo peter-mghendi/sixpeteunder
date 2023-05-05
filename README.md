@@ -11,7 +11,7 @@ While you're here you should look at:
 - [Squanch](https://squanch.netlify.app) - Rick and Morty encyclopaedia as a Single Page application.
 - [Noticebord](https://noticebord.herokuapp.com) - Noticeboard-as-a-Service.
 
-## I'm currently building:
+## I've previously worked on:
 
 ### [Enigma](https://github.com/teamenigmahq)  
 
